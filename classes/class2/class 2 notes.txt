@@ -33,4 +33,14 @@ good doc:
 Capacitor Angular Official Doc: https://capacitorjs.com/docs/guides/angular
 Angular Doc: https://angular.io/docs
 Angular Capacitor Article: https://betterprogramming.pub/how-to-convert-your-angular-application-to-a-native-mobile-app-android-and-ios-c212b38976df
+--------------------------------------------------
+
+Cada pantalla es un activity
+
+Separado en 2 partes
+
+Logica (.kt) Se manipula activity
+
+Grafica (.xml)
+
 
