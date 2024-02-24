@@ -1,0 +1,36 @@
+2/23/2024
+------------------------
+
+Grupo 8
+
+
+Investigacion Angular + Capacitor (Native Android App)
+
+2 ventanas de navegacion todo con lorem
+
+Entregables
+//
+codigo fuente
+--
+Manual
+donde se instal link
+como se instala
+problemas insta
+como se resuelve
+--
+Presentacion
+\\
+
+Duracion 20min max
+>herramienta de desarrollo
+>demo proyecto corto
+>como funciona proceso
+>facilidades limitaciones usos
+
+Fecha entrega: 11 al 17 marzo (aula virtual)
+
+good doc:
+Capacitor Angular Official Doc: https://capacitorjs.com/docs/guides/angular
+Angular Doc: https://angular.io/docs
+Angular Capacitor Article: https://betterprogramming.pub/how-to-convert-your-angular-application-to-a-native-mobile-app-android-and-ios-c212b38976df
+
