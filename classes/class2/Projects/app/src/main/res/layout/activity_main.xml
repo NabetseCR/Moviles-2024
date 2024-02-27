@@ -48,6 +48,7 @@
         android:id="@+id/suma"
         android:layout_width="140dp"
         android:layout_height="50dp"
+        android:onClick="sumar"
         android:text="Sumar"
         app:cornerRadius="14dp"
         app:layout_constraintBottom_toBottomOf="parent"
