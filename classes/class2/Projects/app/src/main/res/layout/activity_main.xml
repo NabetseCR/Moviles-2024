@@ -36,7 +36,7 @@
         android:id="@+id/resultado"
         android:layout_width="103dp"
         android:layout_height="41dp"
-        android:layout_marginTop="68dp"
+        android:layout_marginTop="324dp"
         android:text="Resultado"
         android:textAlignment="center"
         android:textSize="20sp"
@@ -48,14 +48,51 @@
         android:id="@+id/suma"
         android:layout_width="140dp"
         android:layout_height="50dp"
+        android:layout_marginBottom="144dp"
         android:onClick="sumar"
-        android:text="Sumar"
+        android:text="Calcular"
         app:cornerRadius="14dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/resultado"
-        app:layout_constraintVertical_bias="0.353" />
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="356dp"
+        android:layout_height="185dp"
+        android:layout_marginTop="48dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/operando2">
+
+        <RadioButton
+            android:id="@+id/radio_suma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sumar" />
+
+        <RadioButton
+            android:id="@+id/radio_resta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Restar" />
+
+        <RadioButton
+            android:id="@+id/radio_multiplicar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Multiplicar" />
+
+        <RadioButton
+            android:id="@+id/radio_dividir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dividir" />
+    </RadioGroup>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

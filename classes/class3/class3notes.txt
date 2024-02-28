@@ -1,1 +1,29 @@
 2-27-2024
+------------
+
+Estructura Android Studio project
+
+Manifest
+ >Frontend
+ 	>AndroidManifest.xml
+	 . Configuraciones del programa
+
+ >Java
+	> AndroidTest
+	> Test (Unit Testing)
+	> Pruebas directas a clases
+ >Res
+	> Drawable (Graficos del app)
+	> Layout XML de las diferentes activites
+	> Mipmap: Graficos no escalables
+	> Values: Colores rgb app
+	> String: donde se definen los strings estaticos de nuestra app
+	> Styles
+ > Gradle Scripts
+	> Project construccion y depuracion automatica del codigo
+	> Module
+	> Cada cambio va a solicitar una sincronizacion.
+
+ *Proyecto del dia de hoy es la calculadora enhanced en clase 2**
+
+Terminar ese proyecto para el viernes
