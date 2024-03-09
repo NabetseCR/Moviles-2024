@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="ingrese_el_nombre">Ingrese el nombre</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="buscar">Buscar</string>
+    <string name="guardar">Guardar</string>
+    <string name="name">Name</string>
+    <string name="ingrese_numero_tel">Ingrese numero tel</string>
+</resources>

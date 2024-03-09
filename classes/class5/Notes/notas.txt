@@ -1,1 +1,26 @@
 3/08/2024
+
+Se vio el webview y navegacion en la anterior clase
+
+Se hace el ejercicio tome foto del codigo
+
+
+ir a sitio envia a lo que pongo en el text de url es un imput
+
+
+el cual abre otro activity con un webview y un boton de cancelar 
+que nos devuelve al otro activity principal
+
+
+
+ESTO ES UN REPASO LO ANTERIOR ESCRITO
+
+
+Componentes compartidos:
+
+permite guardar datos del app.
+
+
+Shared Preferences
+
+
