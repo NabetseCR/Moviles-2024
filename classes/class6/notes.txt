@@ -1,0 +1,13 @@
+3/12/24
+----------------
+
+labs:
+
+1. Listeners
+2. MultiActivity
+3. ListView
+4. Passwords (para viernes)
+5. Almanecamiento SD Card
+
+-------------------------
+
